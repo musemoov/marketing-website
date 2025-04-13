@@ -1,94 +1,64 @@
-# [NextJS Tailwind Course Details Page](http://demos.creative-tim.com/nextjs-tailwind-course-details-page?ref=readme-ntpp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/nextjs-tailwind-course-details-page&text=Check%20Material%20Tailwind%202%20Template%20made%20by%20@CreativeTim%20#webdesign%20#template%20#materialdesign%20#react%20https://www.creative-tim.com/product/nextjs-tailwind-course-details-page)
+# MaBle - 데이터 기반 마케팅 전문 기업
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-tailwind-course-details-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-course-details-page/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-tailwind-course-details-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-course-details-page/issues?q=is%3Aissue+is%3Aclosed)
+## 🚀 프로젝트 소개
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/745/original/material-tailwind-react-courses-details-template-thumbnail.jpg?1697636213)
+MaBle은 데이터 기반의 전략적 마케팅으로 고객의 브랜드 가치를 높이는 전문 기업입니다. 
+퍼포먼스 마케팅, 컨텐츠 마케팅, 바이럴 캠페인 등 통합 마케팅 서비스를 제공합니다.
 
-Introducing NextJS Tailwind Course Details Page, a comprehensive and user-friendly course details template designed using Tailwind CSS and Material Tailwind.
+## 🛠 주요 기능
 
-Are you in need of a professionally designed and highly customizable course details page template, perfect for providing in-depth information about your client’s courses and enhancing the learning experience for their students? Look no further! We are excited to present to you our Free Course Details Page Template, thoughtfully crafted to cater to the needs of educators and online course providers.
+- **브랜드 전략**: 데이터 분석을 통한 맞춤형 브랜드 전략 수립
+- **퍼포먼스 마케팅**: 실시간 데이터 기반의 효율적인 광고 운영
+- **컨텐츠 마케팅**: 브랜드 스토리텔링과 바이럴 마케팅
+- **실시간 상담**: AI 챗봇을 통한 24/7 고객 상담 서비스
+- **성과 분석**: 투명한 마케팅 성과 리포트 제공
 
-This template, built with Tailwind CSS and Material Tailwind, offers effortless customization to align perfectly with your course content and branding. The free course details page template includes essential features such as header, stats section, categories section, content section, and testimonial section.
+## 💻 기술 스택
 
-**Documentation built by Developers**
+- **Frontend**: Next.js, TypeScript, Tailwind CSS
+- **UI Framework**: Material Tailwind
+- **Animation**: Framer Motion
+- **AI Chat**: OpenAI API
+- **Deployment**: Vercel
 
-Each element is well presented in very complex documentation.
+## 🚀 시작하기
 
-You can read more about the [documentation here](https://www.material-tailwind.com/docs/react/installation).
+1. 저장소 클론
+```bash
+git clone https://github.com/musemoov/marketing-website.git
+cd marketing-website
+```
 
-**HELPFUL LINKS**
+2. 의존성 설치
+```bash
+npm install
+```
 
-- View [Github Repository](https://github.com/creativetimofficial/nextjs-tailwind-course-details-page)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+3. 환경 변수 설정
+```bash
+# .env.local 파일 생성
+OPENAI_API_KEY=your_api_key_here
+```
 
-## [Demo](https://creative-tim.com/product/nextjs-tailwind-course-details-page)
+4. 개발 서버 실행
+```bash
+npm run dev
+```
 
-## Quick start
+## 📱 주요 페이지
 
-Quick start options:
+- **메인 페이지**: 회사 소개 및 주요 서비스 안내
+- **서비스 소개**: 상세 서비스 설명 및 프로세스
+- **성과 사례**: 실제 고객사 마케팅 성공 사례
+- **고객 후기**: 클라이언트 피드백 및 추천사
+- **상담 예약**: 온라인 상담 예약 시스템
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/nextjs-tailwind-course-details-page?ref=readme-ntpp).
+## 🤝 문의하기
 
-## Terminal Commands
+- **이메일**: musemoov@naver.com
+- **전화**: 준비중
+- **주소**: 준비중
 
-1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root ./ directory of the product and run `npm install` to install our local dependencies.
+## 📜 라이선스
 
-## Documentation
-
-The documentation for the Material Dashboard is hosted at our [website](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp).
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-## Resources
-
-- [Live Preview](https://demos.creative-tim.com/nextjs-tailwind-course-details-page?ref=readme-ntpp)
-- [Download Page](https://www.creative-tim.com/product/nextjs-tailwind-course-details-page?ref=readme-ntpp)
-- Documentation is [here](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-ntpp)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-ntpp)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/nextjs-tailwind-course-details-page/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the NextJS Tailwind Course Details Page. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the NextJS Tailwind Course Details Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-course-details-page?ref=readme-ntpp).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-ntpp) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-ntpp)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-ntpp)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-ntpp) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-ntpp) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-ntpp) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+이 프로젝트는 MIT 라이선스를 따릅니다.
